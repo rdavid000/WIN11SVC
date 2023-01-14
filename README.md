@@ -1,2 +1,2 @@
 # WIN11SVC
-Yes Windows 11 can work with well for everything only with this services ;)
+Yes Windows 11 can work only with this services, enjoy ;)
